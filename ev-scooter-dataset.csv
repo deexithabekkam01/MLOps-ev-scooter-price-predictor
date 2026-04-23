@@ -1,0 +1,252 @@
+scooter_name,brand,variant,ex_showroom_price_inr,battery_capacity_kwh,range_km,top_speed_kmph,charging_time_hrs,motor_power,kerb_weight_kg,bluetooth,navigation,riding_modes,fast_charging,url,segment,brand_value,brand_country,brand_model_count,price_per_km,performance_score,brand_encoded
+TVS iQube,TVS,Bajaj Chetak C2501,115322.0,2.2,94.0,75.0,5.0,4.4,110.0,1,1,True,1,https://www.bikedekho.com/tvs/iqube-electric,mid,9,India,5,1226.8297872340424,68.47999999999999,68
+Bajaj Chetak,Bajaj,Bajaj Chetak C2501,107400.0,3.0,127.0,63.0,350.0,7.0,97.5,1,0,True,1,https://www.bikedekho.com/bajaj/chetak,mid,8,India,2,845.6692913385826,77.4,8
+Ather Rizta,Ather,Bajaj Chetak C2501,75999.0,2.9,123.0,80.0,830.0,4.3,125.0,1,1,True,0,https://www.bikedekho.com/ather-energy/rizta,budget,9,India,4,617.8780487804878,82.06,4
+Ather 450X,Ather,450X EMI,147999.0,2.9,126.0,90.0,4.3,6.4,108.0,0,0,False,1,https://www.bikedekho.com/ather-energy/450x,premium,9,India,4,1174.595238095238,87.68,4
+Honda Activa e,Honda,Bajaj Chetak C2501,118147.0,3.0,102.0,80.0,8.15,6.0,118.0,0,0,True,0,https://www.bikedekho.com/honda/activa-electric,mid,5,Unknown,3,1158.3039215686274,74.00000000000001,32
+Vida VX2,Vida,VX2 EMI,44990.0,2.2,92.0,70.0,241.0,7.0,97.5,1,1,False,1,https://www.bikedekho.com/vida/vx2,budget,5,Unknown,3,489.0217391304348,66.20000000000002,75
+Ola S1 Pro,Ola,S1 Pro EMI,116881.0,3.0,176.0,117.0,715.0,11.0,109.0,1,1,True,0,https://www.bikedekho.com/ola-electric/s1-pro,mid,8,India,3,664.0965909090909,119.40000000000002,51
+TVS Orbiter,TVS,Bajaj Chetak C2501,91550.0,1.8,86.0,68.0,220.0,1.8,101.0,1,1,True,0,https://www.bikedekho.com/tvs/orbiter,mid,9,India,5,1064.5348837209303,61.96,68
+Ola S1 X,Ola,S1 X EMI,84999.0,2.0,108.0,101.0,450.0,7.0,105.0,1,1,True,0,https://www.bikedekho.com/ola-electric/s1x,budget,8,India,3,787.0277777777778,85.00000000000001,51
+Simple One,Simple,launched the new Simple One S Gen 2 in India,189999.0,5.0,265.0,115.0,520.0,8.8,129.0,1,1,True,1,https://www.bikedekho.com/simple-energy/simple-one,premium,5,Unknown,3,716.9773584905661,153.76,63
+Green Udaan,Green,Komaki XR1,24499.0,0.53,30.0,25.0,8.15,250.0,51.0,0,0,False,0,https://www.bikedekho.com/green-ev/udaan,budget,5,Unknown,3,816.6333333333333,72.0,26
+TVS iQube ST,TVS,Ather 450X,170984.0,5.3,212.0,82.0,650.0,4.4,132.0,1,1,True,1,https://www.bikedekho.com/tvs/iqube-st,premium,9,India,5,806.5283018867924,118.48000000000002,68
+TVS iQube S,TVS,Ather 450X,139642.0,3.5,145.0,78.0,3.0,4.4,118.6,1,1,True,1,https://www.bikedekho.com/tvs/iqube-s,mid,9,India,5,963.048275862069,90.08,68
+Komaki X One,Komaki,Vida VX2,34999.0,1.63,60.0,25.0,8.15,7.0,97.5,1,0,True,0,https://www.bikedekho.com/komaki/xone,budget,5,Unknown,3,583.3166666666667,35.4,39
+Suzuki e Access,Suzuki,Ather 450X,188490.0,3.07,95.0,71.0,430.0,4.1,122.0,1,1,True,1,https://www.bikedekho.com/suzuki/e-access,premium,5,Unknown,3,1984.1052631578948,67.22,67
+Bajaj Chetak C2501,Bajaj,Chetak C2501 EMI,91399.0,2.5,113.0,55.0,2.25,7.0,107.0,1,0,True,1,https://www.bikedekho.com/bajaj/chetak-c2501,mid,8,India,2,808.8407079646017,68.60000000000001,8
+Yakuza Rubie,Yakuza,Vida VX2,35280.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/rubie,budget,5,Unknown,3,641.4545454545455,82.0,79
+Ola S1 Z,Ola,S1 Z EMI,59999.0,3.0,146.0,70.0,8.15,3.0,97.5,0,0,False,1,https://www.bikedekho.com/ola-electric/s1-z,budget,8,India,3,410.95205479452056,87.0,51
+Ultraviolette Tesseract,Ultraviolette,Ather 450X,145000.0,3.5,162.0,125.0,8.15,14.91,97.5,1,1,False,1,https://www.bikedekho.com/ultraviolette/tesseract,premium,5,Unknown,3,895.0617283950618,117.782,70
+Vida V2,Vida,V2 EMI,120300.0,3.94,165.0,90.0,555.0,6.0,125.0,1,0,True,1,https://www.bikedekho.com/vida/vida-v2,mid,5,Unknown,3,729.0909090909091,103.2,75
+Yamaha EC-06,Yamaha,EC-06 EMI,167600.0,4.0,169.0,79.0,10.0,4.5,132.0,1,0,True,0,https://www.bikedekho.com/yamaha/ec-06,premium,5,Unknown,3,991.7159763313609,100.10000000000002,80
+Kinetic Green E Luna,Kinetic,Bajaj Chetak C2501,69990.0,2.3,110.0,50.0,8.15,2.2,96.0,0,0,False,0,https://www.bikedekho.com/kinetic-green/e-luna,budget,5,Unknown,3,636.2727272727273,64.44,38
+River Indie,River,unveiled the Yamaha EC-06 in India,145999.0,4.0,163.0,90.0,8.0,6.7,97.5,0,0,True,1,https://www.bikedekho.com/river/river-electric-scooter,premium,5,Unknown,3,895.6993865030674,102.54,58
+Simple Ultra,Simple,Ather 450 Apex,234999.0,6.5,400.0,115.0,8.15,8.8,97.5,0,1,True,0,https://www.bikedekho.com/simple-energy/simple-ultra,premium,5,Unknown,3,587.4975,207.76,63
+Ola S1 Pro Sport,Ola,S1 Pro Sport EMI,149999.0,4.0,242.0,128.0,8.15,5.5,116.0,1,1,True,0,https://www.bikedekho.com/ola-electric/s1-pro-sport,premium,8,India,3,619.8305785123966,149.1,51
+Hero Electric Optima,Hero,Bajaj Chetak C2501,83300.0,2.0,89.0,48.0,8.15,1.2,93.0,0,0,False,0,https://www.bikedekho.com/hero-electric/optima,budget,5,Unknown,3,935.9550561797753,55.040000000000006,31
+Ampere Magnus Grand,Ampere,Bajaj Chetak C2501,89999.0,2.3,85.0,65.0,5.0,2.4,108.0,0,0,True,0,https://www.bikedekho.com/ampere/magnus-grand,budget,6,India,5,1058.8117647058823,60.48,3
+Ola S1 X Plus,Ola,S1 X Plus EMI,112881.0,4.0,242.0,125.0,450.0,11.0,113.0,1,1,True,1,https://www.bikedekho.com/ola-electric/s1-x-plus,mid,8,India,3,466.4504132231405,149.0,51
+Ather 450S,Ather,450S EMI,84341.0,2.9,122.0,90.0,5.3,5.4,108.0,0,0,False,1,https://www.bikedekho.com/ather-energy/450s,budget,9,India,4,691.3196721311475,85.88000000000001,4
+Bajaj Chetak vs TVS iQube,Bajaj,Ather 450X,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-iqube-electric,mid,8,India,2,845.6692913385826,77.4,8
+Bajaj Chetak vs Ather Rizta,Bajaj,Ather 450X,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-rizta,mid,8,India,2,845.6692913385826,77.4,8
+Ather 450X vs Ather Rizta,Ather,Ather 450X,147999.0,2.9,126.0,90.0,4.3,6.4,108.0,0,0,False,1,https://www.bikedekho.com/compare/450x-vs-rizta,premium,9,India,4,1174.595238095238,87.68,4
+Ather 450X vs Honda Activa e,Ather,Ather 450X,147999.0,2.9,126.0,90.0,4.3,6.4,108.0,0,0,False,1,https://www.bikedekho.com/compare/450x-vs-activa-electric,premium,9,India,4,1174.595238095238,87.68,4
+Honda Activa e vs Ola S1 Pro,Honda,Ola S1 Pro,118147.0,3.0,102.0,80.0,8.15,6.0,118.0,0,0,True,0,https://www.bikedekho.com/compare/activa-electric-vs-s1-pro,mid,5,Unknown,3,1158.3039215686274,74.00000000000001,32
+Electric Bikes News,Electric,"Ola S1 X+ 5.2kWh Launched In India at Rs 1,29,999",129999.0,2.02,123.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/news/electric-bikes,mid,5,Unknown,3,1056.9024390243903,70.60000000000001,17
+Ultraviolette F77,Ultraviolette,F77 EMI,199000.0,7.1,211.0,155.0,8.15,27.0,197.0,1,0,True,1,https://www.bikedekho.com/ultraviolette/f77,premium,5,Unknown,3,943.127962085308,151.8,70
+Revolt RV400,Revolt,RV400 EMI,139950.0,3.24,150.0,85.0,3.3,4.1,115.0,1,1,True,0,https://www.bikedekho.com/revolt/rv-400,mid,5,Unknown,3,933.0,94.82,57
+Ola Roadster,Ola,Revolt RV400,104999.0,3.5,151.0,116.0,8.15,13.0,97.5,1,1,True,0,https://www.bikedekho.com/ola-electric/ola-roadster,mid,8,India,3,695.3576158940398,109.4,51
+Royal Enfield Flying Flea C6,Royal,Flying Flea C6 EMI,199000.0,3.91,154.0,115.0,8.15,15.4,124.0,1,1,False,0,https://www.bikedekho.com/royal-enfield/flying-flea-c6,premium,5,Unknown,3,1292.2077922077922,110.67999999999999,60
+Ather EL01,Ather,Bajaj Chetak C2501,99000.0,2.02,123.0,50.0,8.15,7.0,97.5,0,0,True,1,https://www.bikedekho.com/ather-energy/el01,mid,9,India,4,804.8780487804878,70.60000000000001,4
+Suzuki Burgman Electric,Suzuki,Bajaj Chetak C2501,120000.0,2.02,123.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/suzuki/burgman-electric,mid,5,Unknown,3,975.609756097561,70.60000000000001,67
+Simple Family Electric Scooter,Simple,Bajaj Chetak C2501,100000.0,2.02,123.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/simple-energy/family-electric-scooter,mid,5,Unknown,3,813.0081300813008,70.60000000000001,63
+Hero Electric AE-8,Hero,Bajaj Chetak C2501,79990.0,2.02,80.0,45.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/hero-electric/ae-8,premium,5,Unknown,3,999.875,51.4,31
+Upcoming Electric Scooters,Upcoming,Ather EL01,1878.0,2.02,123.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/upcoming-scooters/electric,budget,5,Unknown,3,15.268292682926829,70.60000000000001,71
+Komaki XR7,Komaki,XR7 EMI,89999.0,2.02,322.0,55.0,8.15,3.0,97.5,0,0,False,0,https://www.bikedekho.com/komaki/xr7,budget,5,Unknown,3,279.5,151.4,39
+Ather 450 Apex,Ather,450 Apex EMI,189946.0,3.7,157.0,100.0,5.45,7.0,111.6,1,1,True,1,https://www.bikedekho.com/ather-energy/450-apex,premium,9,India,4,1209.8471337579617,104.20000000000002,4
+Yulu Wynn,Yulu,Hero Vida VX2,55555.0,0.98,68.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yulu/wynn,budget,5,Unknown,3,816.9852941176471,87.2,82
+Ampere Nexus,Ampere,Bajaj Chetak C2501,119900.0,3.0,100.0,93.0,8.15,4.0,97.5,1,0,True,1,https://www.bikedekho.com/ampere/nexus,mid,6,India,5,1199.0,78.0,3
+Hero Electric Flash,Hero,Vida VX2,59640.0,1.54,85.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/hero-electric/flash,budget,5,Unknown,3,701.6470588235294,94.0,31
+Zelio Eeva,Zelio,Vida VX2,50000.0,1.92,80.0,50.0,8.15,7.0,80.0,0,0,False,0,https://www.bikedekho.com/zelio/eeva,budget,5,Unknown,3,625.0,53.4,83
+BGauss Max C12,BGauss,Max C12 EMI,104740.0,2.0,85.0,60.0,8.15,2.5,106.0,0,0,True,0,https://www.bikedekho.com/bgauss/c12i-max,mid,5,Unknown,3,1232.235294117647,58.5,6
+Yakuza Neu,Yakuza,Vida VX2,36960.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/neu,budget,5,Unknown,3,672.0,82.0,79
+Ola S1 Pro Plus,Ola,S1 Pro Plus EMI,155720.0,4.0,242.0,128.0,450.0,13.0,116.0,1,1,True,1,https://www.bikedekho.com/ola-electric/s1-pro-plus,premium,8,India,3,643.4710743801653,150.6,51
+Ampere Magnus Neo,Ampere,Bajaj Chetak C2501,86999.0,2.3,85.0,65.0,5.0,2.4,108.0,0,0,True,0,https://www.bikedekho.com/ampere/magnus-neo,budget,6,India,5,1023.5176470588235,60.48,3
+TVS X,TVS,Ather 450 Apex,263880.0,4.44,140.0,105.0,430.0,7.0,97.5,1,1,True,1,https://www.bikedekho.com/tvs/x-electric-scooter,premium,9,India,5,1884.857142857143,99.4,68
+Ampere Magnus G Max,Ampere,Bajaj Chetak C2501,97999.0,3.0,110.0,65.0,5.45,2.4,97.5,0,0,True,0,https://www.bikedekho.com/ampere/magnus-g-max,mid,6,India,5,890.9,70.48,3
+Ampere Reo,Ampere,Vida VX2,59900.0,1.44,80.0,25.0,4.0,250.0,71.4,0,0,True,0,https://www.bikedekho.com/ampere/reo,budget,6,India,5,748.75,92.0,3
+Bounce Infinity E.1,Bounce,Infinity E.1 EMI,55000.0,1.9,70.0,65.0,8.15,2.2,94.0,1,0,True,0,https://www.bikedekho.com/bounce/e-scooter,budget,5,Unknown,3,785.7142857142857,54.44,10
+Honda QC1,Honda,QC1 EMI,90022.0,1.5,80.0,50.0,650.0,1.8,89.5,0,0,True,0,https://www.bikedekho.com/honda/qc1,mid,5,Unknown,3,1125.275,52.36,32
+Green Sunny,Green,Komaki XR1,26499.0,1.34,40.0,25.0,8.15,250.0,51.0,0,0,False,0,https://www.bikedekho.com/green-ev/sunny,budget,5,Unknown,3,662.475,76.0,26
+Kinetic DX EV,Kinetic,Bajaj Chetak C2501,111499.0,2.5,102.0,80.0,4.0,4.7,97.5,1,0,True,0,https://www.bikedekho.com/kinetic/dx,mid,5,Unknown,3,1093.1274509803923,73.74000000000001,38
+Okinawa PraisePro,Okinawa,Ola S1 Z,84443.0,2.08,81.0,56.0,8.15,1.0,97.5,0,0,False,0,https://www.bikedekho.com/okinawa/praisepro,budget,5,Unknown,3,1042.5061728395062,55.0,50
+Warivo Nova,Warivo,Vida VX2,55999.0,2.02,60.0,25.0,8.15,250.0,97.5,0,0,True,0,https://www.bikedekho.com/warivo-motor/nova,budget,5,Unknown,3,933.3166666666667,84.0,76
+Sokudo Acute,Sokudo,Bajaj Chetak C2501,111889.0,3.1,150.0,70.0,8.15,2.3,109.0,0,0,True,1,https://www.bikedekho.com/sokudo/acute,mid,5,Unknown,3,745.9266666666666,88.46,64
+Lectrix NDuro,Lectrix,Ola S1X,59999.0,2.3,90.0,65.0,8.15,7.0,97.5,1,1,True,0,https://www.bikedekho.com/lectrix-ev/nduro,budget,5,Unknown,3,666.6555555555556,63.4,41
+Lectrix EV ZYRO,Lectrix,Vida VX2,46999.0,1.5,85.0,50.0,8.15,7.0,97.5,0,0,False,1,https://www.bikedekho.com/lectrix-ev/zyro,budget,5,Unknown,3,552.9294117647058,55.4,41
+Ozotec Flio,Ozotec,Bajaj Chetak C2501,79990.0,2.0,100.0,70.0,8.15,7.0,93.0,0,0,True,1,https://www.bikedekho.com/ozotec/flio,budget,5,Unknown,3,799.9,69.4,54
+Hero Electric Atria,Hero,Bajaj Chetak C2501,77690.0,1.54,85.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/hero-electric/atria,budget,5,Unknown,3,914.0,94.0,31
+TVS iQube vs Komaki XR7,TVS,Komaki XR7,115322.0,2.2,94.0,75.0,5.0,4.4,110.0,1,1,True,1,https://www.bikedekho.com/compare/iqube-electric-vs-xr7,mid,9,India,5,1226.8297872340424,68.47999999999999,68
+Ather 450 Apex vs Ather 450X,Ather,Ather 450 Apex,189946.0,3.7,157.0,100.0,5.45,7.0,111.6,1,1,True,1,https://www.bikedekho.com/compare/450-apex-vs-450x,premium,9,India,4,1209.8471337579617,104.20000000000002,4
+Vida VX2 vs Yulu Wynn,Vida,Vida VX2,44990.0,2.2,92.0,70.0,3.53,7.0,97.5,1,1,False,1,https://www.bikedekho.com/compare/vx2-vs-wynn,budget,5,Unknown,3,489.0217391304348,66.20000000000002,75
+TVS Orbiter vs Komaki XGT CAT 2.0,TVS,Komaki XGT CAT 2.0,91550.0,1.8,86.0,68.0,8.15,1.8,101.0,1,1,True,0,https://www.bikedekho.com/compare/orbiter-vs-xgt-cat-2,mid,9,India,5,1064.5348837209303,61.96,68
+Bajaj Chetak vs Ampere Nexus,Bajaj,Ather 450X,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-nexus,mid,8,India,2,845.6692913385826,77.4,8
+Vespa Electric Scooter,Vespa,Ather 450X,170000.0,2.02,100.0,70.0,8.15,3.6,97.5,1,0,True,0,https://www.bikedekho.com/vespa/elettrica,premium,5,Unknown,3,1700.0,68.72,74
+Yo Electron DX,Yo,Vida VX2,56000.0,0.34,60.0,25.0,8.15,250.0,88.0,0,0,True,0,https://www.bikedekho.com/yobykes/electron-dx,budget,5,Unknown,3,933.3333333333334,84.0,81
+Hero Electric Photon,Hero,Bajaj Chetak C2501,110891.0,1.87,90.0,45.0,8.15,1.8,116.0,0,0,False,0,https://www.bikedekho.com/hero-electric/photon,mid,5,Unknown,3,1232.1222222222223,54.36,31
+Zelio Legender,Zelio,Vida VX2,65000.0,2.02,60.0,25.0,4.0,250.0,97.5,0,0,True,1,https://www.bikedekho.com/zelio/legender,budget,5,Unknown,3,1083.3333333333333,84.0,83
+Deltic Drixx,Deltic,Vida VX2,64990.0,1.68,70.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/deltic/drixx,budget,5,Unknown,3,928.4285714285714,88.0,13
+Yakuza Viraj,Yakuza,Vida VX2,38420.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/viraj,budget,5,Unknown,3,698.5454545454545,82.0,79
+Ujaas eGo LA,Ujaas,Vida VX2,39880.0,1.56,75.0,50.0,67.0,250.0,97.5,0,0,False,0,https://www.bikedekho.com/ujaas-energy/ego,budget,5,Unknown,3,531.7333333333333,100.0,69
+Kyte Energy Magnum,Kyte,Vida VX2,64360.0,3.2,70.0,45.0,8.15,2.4,105.0,0,0,False,1,https://www.bikedekho.com/kyte-energy/magnum-pro,budget,5,Unknown,3,919.4285714285714,46.48,40
+Kinetic Green Zing,Kinetic,Bajaj Chetak C2501,71990.0,1.4,70.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/kinetic-green/zing,budget,5,Unknown,3,1028.4285714285713,88.0,38
+Yakuza Sparrow,Yakuza,Vida VX2,52200.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/sparrow,budget,5,Unknown,3,949.0909090909091,82.0,79
+Komaki FAM 2.0,Komaki,FAM 2.0 EMI,126999.0,2.02,200.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/komaki/fam-2-0,mid,5,Unknown,3,634.995,101.4,39
+Kinetic Green Zoom,Kinetic,Vida V2,71531.0,1.4,70.0,40.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/kinetic-green/zoom,budget,5,Unknown,3,1021.8714285714286,94.0,38
+Komaki XGT KM,Komaki,Vida VX2,40749.0,1.75,100.0,25.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/komaki/xgtkm,budget,5,Unknown,3,407.49,51.4,39
+NIJ Automotive Accelero R14,NIJ,Accelero R14 EMI,49731.0,1.92,180.0,24.0,8.15,250.0,86.0,0,0,True,0,https://www.bikedekho.com/nij-automotive/accelero,budget,5,Unknown,3,276.28333333333336,131.6,45
+Komaki FAM 1.0,Komaki,FAM 1.0 EMI,99999.0,2.02,100.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/komaki/fam-1-0,mid,5,Unknown,3,999.99,61.4,39
+BGauss RUV 350,BGauss,RUV 350 EMI,119990.0,2.3,105.0,75.0,5.155,3.5,116.0,1,0,True,1,https://www.bikedekho.com/bgauss/ruv350,mid,5,Unknown,3,1142.7619047619048,72.7,6
+Motovolt M7,Motovolt,M7 EMI,74999.0,3.0,73.0,60.0,8.15,1.5,107.0,0,0,False,0,https://www.bikedekho.com/motovolt/m7,budget,5,Unknown,3,1027.3835616438357,53.5,43
+Sokudo Plus,Sokudo,Bajaj Chetak C2501,61889.0,2.02,105.0,50.0,8.15,7.0,100.0,0,0,True,1,https://www.bikedekho.com/sokudo/plus,budget,5,Unknown,3,589.4190476190477,63.4,64
+Joy e-bike Gen Next Nanu,Joy,Vida VX2,53999.0,1.44,70.0,25.0,8.15,250.0,70.0,0,0,False,1,https://www.bikedekho.com/joy-e/gen-nxt-nanu-e-scooter,budget,5,Unknown,3,771.4142857142857,88.0,35
+AMO Electric Jaunty,AMO,Vida VX2,56852.0,1.56,75.0,25.0,6.0,249.0,62.0,0,0,False,1,https://www.bikedekho.com/amomobility/jaunty,budget,5,Unknown,3,758.0266666666666,89.80000000000001,2
+Zelio Gracy Pro,Zelio,Bajaj Chetak C2501,79999.0,3.02,120.0,50.0,8.15,7.0,90.0,0,0,False,0,https://www.bikedekho.com/zelio/gracy-pro,budget,5,Unknown,3,666.6583333333333,69.4,83
+Yo Electron DX vs Vida VX2,Yo,Vida VX2,56000.0,0.34,60.0,25.0,10.0,250.0,88.0,0,0,True,0,https://www.bikedekho.com/compare/electron-dx-vs-vx2,budget,5,Unknown,3,933.3333333333334,84.0,81
+Komaki X One vs Zelo Zoop,Komaki,Vida VX2,34999.0,1.63,60.0,25.0,34.0,7.0,97.5,1,0,True,0,https://www.bikedekho.com/compare/xone-vs-zoop,budget,5,Unknown,3,583.3166666666667,35.4,39
+TVS iQube vs Hero Electric Photon,TVS,Ather 450X,115322.0,2.2,94.0,75.0,5.0,4.4,110.0,1,1,True,1,https://www.bikedekho.com/compare/iqube-electric-vs-photon,mid,9,India,5,1226.8297872340424,68.47999999999999,68
+BattRE Electric Storie,BattRE,Bajaj Chetak C2501,99999.0,2.3,103.0,65.0,8.15,2.4,97.5,0,0,True,0,https://www.bikedekho.com/battre-electric-mobility/storie,mid,5,Unknown,3,970.8640776699029,67.68,9
+Okinawa R30,Okinawa,R30 EMI,61998.0,1.34,60.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/okinawa/r30,budget,5,Unknown,3,1033.3,84.0,50
+Yakuza Nebula,Yakuza,Vida VX2,55800.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/nebula,budget,5,Unknown,3,1014.5454545454545,82.0,79
+Warivo Neo,Warivo,Vida VX2,39999.0,2.02,60.0,25.0,8.15,250.0,97.5,0,0,True,0,https://www.bikedekho.com/warivo-motor/warivo-neo,budget,5,Unknown,3,666.65,84.0,76
+Gaura Warrior 5G,Gaura,Warrior 5G EMI,62999.0,1.34,40.0,25.0,4.0,250.0,82.0,0,0,False,0,https://www.bikedekho.com/gaura-electric/warrior-5g,budget,5,Unknown,3,1574.975,76.0,21
+Okaya Freedum,Okaya,Bajaj Chetak C2501,69999.0,1.44,75.0,25.0,8.15,250.0,97.5,0,0,True,1,https://www.bikedekho.com/okaya/freedum,budget,5,Unknown,3,933.32,90.0,49
+Joy e-bike Wolf,Joy,Vida VX2,54999.0,1.38,60.0,25.0,8.15,250.0,67.0,0,0,False,1,https://www.bikedekho.com/joy-e/wolf,budget,5,Unknown,3,916.65,84.0,35
+Zelio X Men Plus,Zelio,Vida VX2,60000.0,2.02,120.0,25.0,8.15,7.0,80.0,0,0,False,0,https://www.bikedekho.com/zelio/x-men-plus,budget,5,Unknown,3,500.0,59.4,83
+Okinawa Lite,Okinawa,Bajaj Chetak C2501,69093.0,1.25,60.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/okinawa/lite,budget,5,Unknown,3,1151.55,84.0,50
+Warivo Edge,Warivo,Vida VX2,44999.0,2.02,60.0,25.0,8.15,250.0,97.5,0,0,True,0,https://www.bikedekho.com/warivo-motor/warivo-edge,budget,5,Unknown,3,749.9833333333333,84.0,76
+Gravton Quanta,Gravton,Bajaj Chetak C2501,120000.0,6.0,130.0,70.0,8.15,4.0,97.5,0,1,False,1,https://www.bikedekho.com/gravton/quanta,mid,5,Unknown,3,923.0769230769231,80.8,25
+BNC Motors Challenger,BNC,Bajaj Chetak C2501,99900.0,2.1,90.0,70.0,8.15,3.0,110.0,1,0,True,1,https://www.bikedekho.com/boom-motors/bnc-challenger,mid,5,Unknown,3,1110.0,64.6,7
+Green Invicta,Green,Vida VX2,39499.0,1.38,60.0,25.0,8.15,250.0,92.0,0,0,False,0,https://www.bikedekho.com/green-ev/invicta,budget,5,Unknown,3,658.3166666666667,84.0,26
+Yo Drift DX,Yo,Vida VX2,65000.0,0.34,60.0,25.0,8.15,250.0,70.0,0,0,True,0,https://www.bikedekho.com/yobykes/drift,budget,5,Unknown,3,1083.3333333333333,84.0,81
+Deltic Legion,Deltic,Bajaj Chetak C2501,69490.0,1.68,70.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/deltic/legion,budget,5,Unknown,3,992.7142857142857,88.0,13
+Shema Eagle,Shema,Vida VX2,64999.0,1.81,80.0,50.0,8.15,1.2,97.5,0,0,False,0,https://www.bikedekho.com/shema-e-vehicle/shema-eagle,budget,5,Unknown,3,812.4875,52.24,62
+Okinawa iPraise+,Okinawa,Bajaj Chetak C2501,122955.0,3.3,139.0,58.0,8.15,2.7,97.5,0,1,False,0,https://www.bikedekho.com/okinawa/i-praise,mid,5,Unknown,3,884.568345323741,79.34000000000002,50
+Gaura Sniper 5G,Gaura,Sniper 5G EMI,52990.0,1.68,50.0,25.0,8.15,250.0,93.0,0,0,False,0,https://www.bikedekho.com/gaura-electric/sniper-5g,budget,5,Unknown,3,1059.8,80.0,21
+Ozotec Bheem,Ozotec,Bajaj Chetak C2501,115490.0,1.75,215.0,65.0,8.15,3.0,97.5,1,1,True,0,https://www.bikedekho.com/ozotec/bheem,mid,5,Unknown,3,537.1627906976744,112.6,54
+Jitendra JMT 1000,Jitendra,JMT 1000 EMI,65997.0,1.92,75.0,52.0,8.15,1.01,87.0,1,0,True,0,https://www.bikedekho.com/jitendra-ev/jmt-1000,budget,5,Unknown,3,879.96,51.001999999999995,34
+TVS iQube vs BattRE Electric Storie,TVS,Ather 450X,115322.0,2.2,94.0,75.0,5.0,4.4,110.0,1,1,True,1,https://www.bikedekho.com/compare/iqube-electric-vs-storie,mid,9,India,5,1226.8297872340424,68.47999999999999,68
+Okinawa R30 vs Vida VX2,Okinawa,Okinawa R30,61998.0,1.34,60.0,25.0,45.0,250.0,97.5,0,0,False,0,https://www.bikedekho.com/compare/r30-vs-vx2,budget,5,Unknown,3,1033.3,84.0,50
+Yakuza Nebula vs Yulu Wynn,Yakuza,Vida VX2,55800.0,2.02,55.0,25.0,68.0,250.0,97.5,0,0,False,0,https://www.bikedekho.com/compare/nebula-vs-wynn,budget,5,Unknown,3,1014.5454545454545,82.0,79
+EeVe Forseti,EeVe,Bajaj Chetak C2501,100000.0,2.02,100.0,70.0,34.0,7.0,97.5,0,0,False,1,https://www.bikedekho.com/eeve/forseti,mid,5,Unknown,3,1000.0,69.4,16
+Okaya Faast F2B,Okaya,Faast F2B EMI,89999.0,2.2,81.0,70.0,8.15,2.3,97.5,0,0,True,1,https://www.bikedekho.com/okaya/faast-f2b,budget,5,Unknown,3,1111.0987654320988,60.86,49
+Zelio Eeva ZX+,Zelio,Bajaj Chetak C2501,70000.0,2.3,70.0,50.0,8.15,250.0,90.0,0,0,False,0,https://www.bikedekho.com/zelio/eeva-zx-plus,budget,5,Unknown,3,1000.0,98.0,83
+Zelo Knight Plus,Zelo,Vida VX2,59990.0,1.8,100.0,55.0,8.15,1.5,97.5,0,0,False,0,https://www.bikedekho.com/zelo/knight-plus,budget,5,Unknown,3,599.9,62.3,84
+iGowise BeiGo X4,iGowise,BeiGo X4 EMI,110000.0,2.02,150.0,70.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/igowise-mobility/beigo-x4,mid,5,Unknown,3,733.3333333333334,89.4,87
+Gaura G6,Gaura,G6 EMI,99999.0,3.3,154.0,75.0,3.0,1.8,103.0,0,0,True,0,https://www.bikedekho.com/gaura-electric/g6,mid,5,Unknown,3,649.3441558441558,91.96,21
+Raftaar Galaxy,Raftaar,Vida VX2,51900.0,1.5,100.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/raftaar/galaxy,budget,5,Unknown,3,519.0,100.0,56
+Zelio Gracy+,Zelio,Vida VX2,54000.0,1.92,80.0,25.0,8.15,7.0,88.0,0,0,False,0,https://www.bikedekho.com/zelio/gracy-plus,budget,5,Unknown,3,675.0,43.4,83
+Joy e-bike Gen Next Nanu Plus,Joy,Bajaj Chetak C2501,70099.0,2.18,100.0,55.0,8.15,1.5,85.0,1,0,True,0,https://www.bikedekho.com/joy-e/gen-nxt-nanu-plus,budget,5,Unknown,3,700.99,62.3,35
+Okaya Faast F2F,Okaya,Faast F2F EMI,79999.0,2.19,90.0,50.0,8.15,1.3,97.5,0,0,False,1,https://www.bikedekho.com/okaya/faast-f2f,budget,5,Unknown,3,888.8777777777777,56.26,49
+Kyte Energy X1,Kyte,X1 EMI,84000.0,2.0,90.0,70.0,8.15,7.0,95.0,0,0,False,0,https://www.bikedekho.com/kyte-energy/x1,budget,5,Unknown,3,933.3333333333334,65.4,40
+Gaura Partner 5G,Gaura,Partner 5G EMI,79990.0,2.69,70.0,25.0,4.0,250.0,75.0,0,0,False,0,https://www.bikedekho.com/gaura-electric/partner-5g,budget,5,Unknown,3,1142.7142857142858,88.0,21
+Sokudo Select,Sokudo,Bajaj Chetak C2501,93889.0,2.2,100.0,70.0,8.15,2.3,101.0,0,0,True,1,https://www.bikedekho.com/sokudo/select,mid,5,Unknown,3,938.89,68.46,64
+HCD India NPS Cargo,HCD,Bajaj Chetak C2501,80850.0,1.56,70.0,25.0,8.15,250.0,110.0,0,1,True,1,https://www.bikedekho.com/hcd-india/nps-cargo,budget,5,Unknown,3,1155.0,88.0,28
+Enigma Ambier N8,Enigma,Ambier N8 EMI,95000.0,2.22,123.0,60.0,8.15,1.5,220.0,0,0,False,0,https://www.bikedekho.com/enigma/ambier-n8,mid,5,Unknown,3,772.3577235772358,73.5,18
+Numeros Diplos Max,Numeros,Bajaj Chetak C2501,113400.0,3.7,140.0,63.0,8.15,2.67,137.0,0,0,True,0,https://www.bikedekho.com/numeros-motors/diplos-max,mid,5,Unknown,3,810.0,81.73400000000001,46
+Okinawa Dual 100,Okinawa,Dual 100 EMI,119085.0,3.12,129.0,60.0,8.15,2.5,97.5,0,0,False,0,https://www.bikedekho.com/okinawa/dual,mid,5,Unknown,3,923.1395348837209,76.1,50
+Fujiyama Spectra,Fujiyama,Vida VX2,51528.0,1.3,123.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/fujiyama/spectra,budget,5,Unknown,3,418.9268292682927,109.2,20
+Raftaar Cruzer R1,Raftaar,Cruzer R1 EMI,84500.0,1.92,100.0,45.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/raftaar/raftaar-cruiser,budget,5,Unknown,3,845.0,108.0,56
+Lectrix EV LXS,Lectrix,Vida VX2,49999.0,2.3,89.0,50.0,8.15,1.9,97.5,1,0,False,1,https://www.bikedekho.com/lectrix-ev/lxs,budget,5,Unknown,3,561.7865168539325,55.980000000000004,41
+Shema Tuff,Shema,Bajaj Chetak C2501,79655.0,1.8,80.0,25.0,8.15,250.0,65.0,0,0,False,0,https://www.bikedekho.com/shema-e-vehicle/tuff,budget,5,Unknown,3,995.6875,92.0,62
+Sprinto HS,Sprinto,Bajaj Chetak C2501,86000.0,2.52,120.0,50.0,8.15,800.0,100.0,0,0,False,0,https://www.bikedekho.com/e-sprinto-electric/sprinto,budget,5,Unknown,3,716.6666666666666,228.0,65
+Herald Rider,Herald,Bajaj Chetak C2501,87660.0,2.02,123.0,25.0,8.15,2.0,97.5,0,0,False,0,https://www.bikedekho.com/herald/herald-rider,budget,5,Unknown,3,712.6829268292682,59.6,30
+Okaya Faast F2B vs TVS iQube,Okaya,Okaya Faast F2B,89999.0,2.2,81.0,70.0,34.0,2.3,97.5,0,0,True,1,https://www.bikedekho.com/compare/faast-f2b-vs-iqube-electric,budget,5,Unknown,3,1111.0987654320988,60.86,49
+Zelio Eeva ZX+ vs Vida VX2,Zelio,Vida VX2,70000.0,2.3,70.0,50.0,79.0,250.0,90.0,0,0,False,0,https://www.bikedekho.com/compare/eeva-zx-plus-vs-vx2,budget,5,Unknown,3,1000.0,98.0,83
+Zelo Knight Plus vs Ola S1 Z,Zelo,Ola S1 Z,59990.0,1.8,100.0,55.0,8.15,1.5,97.5,0,0,False,0,https://www.bikedekho.com/compare/knight-plus-vs-s1-z,budget,5,Unknown,3,599.9,62.3,84
+Kinetic Green E Luna vs E-Went Rabbitor,Kinetic,TVS XL100,69990.0,2.0,110.0,50.0,4.0,1.2,96.0,0,0,False,0,https://www.bikedekho.com/compare/e-luna-vs-rabbitor,budget,5,Unknown,3,636.2727272727273,64.24,38
+iGowise BeiGo X4 vs Bajaj Chetak,iGowise,iGowise BeiGo X4,110000.0,2.02,150.0,70.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/compare/beigo-x4-vs-chetak,mid,5,Unknown,3,733.3333333333334,89.4,87
+KTM Electric Scooter,KTM,Ather 450 Apex,150000.0,2.02,123.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/ktm/ktm-electric-scooter,premium,5,Unknown,3,1219.5121951219512,70.60000000000001,36
+Li-ions Spock Electric Scooter,Li-ions,Vida VX2,65000.0,2.88,130.0,45.0,8.15,2.0,90.0,0,1,True,0,https://www.bikedekho.com/liions-elektrik-solutions/spock-electric-scooter,budget,5,Unknown,3,500.0,70.4,42
+Yakuza Parinda,Yakuza,Vida VX2,58800.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/parinda,budget,5,Unknown,3,1069.090909090909,82.0,79
+AMO Electric Jaunty I-Pro,AMO,Bajaj Chetak C2501,98736.0,2.52,120.0,60.0,8.15,2.9,101.0,0,0,False,0,https://www.bikedekho.com/amomobility/jaunty-i-pro,mid,5,Unknown,3,822.8,72.58,2
+Yakuza Aqaba,Yakuza,Vida VX2,54600.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/aqaba,budget,5,Unknown,3,992.7272727272727,82.0,79
+Vegh S25,Vegh,S25 EMI,74539.0,1.56,80.0,25.0,45.0,250.0,97.5,0,0,True,0,https://www.bikedekho.com/vegh/s25,budget,5,Unknown,3,931.7375,92.0,73
+GoBike Ambition,GoBike,Bajaj Chetak C2501,73817.0,2.02,123.0,55.0,45.0,7.0,97.5,0,0,False,0,https://www.bikedekho.com/birla-e-bike/ambition,budget,5,Unknown,3,600.1382113821138,72.60000000000001,24
+Detel EV Veeru,Detel,Bajaj Chetak C2501,75000.0,1.92,100.0,25.0,8.15,250.0,60.0,0,0,False,0,https://www.bikedekho.com/etel-ev/veeru,budget,5,Unknown,3,750.0,100.0,14
+Evolet Pony,Evolet,Vida VX2,59999.0,1.15,80.0,25.0,8.15,250.0,76.0,0,0,False,0,https://www.bikedekho.com/evolet/polo-pony,budget,5,Unknown,3,749.9875,92.0,19
+Numeros Diplos Max Plus,Numeros,Bajaj Chetak C2501,120887.0,4.0,156.0,70.0,8.15,2.89,140.0,0,0,True,1,https://www.bikedekho.com/numeros-motors/diplos-max-plus,mid,5,Unknown,3,774.9166666666666,90.97800000000001,46
+RunR HS Electric,RunR,Bajaj Chetak C2501,114499.0,2.4,100.0,70.0,5.3,1.5,90.0,0,0,True,0,https://www.bikedekho.com/runr/hs-electric,mid,5,Unknown,3,1144.99,68.3,61
+GoBike XL,GoBike,Bajaj Chetak C2501,109999.0,2.02,123.0,100.0,45.0,7.0,97.5,0,0,False,0,https://www.bikedekho.com/birla-e-bike/birla-xl,mid,5,Unknown,3,894.30081300813,90.60000000000001,24
+Hop Electric LEO,Hop,Bajaj Chetak C2501,84360.0,1.44,95.0,25.0,3.3,250.0,77.0,0,1,True,0,https://www.bikedekho.com/hop-electric/leo,budget,5,Unknown,3,888.0,98.0,33
+DAO Vidyut 108,DAO,Vidyut 108 EMI,86449.0,1.2,70.0,25.0,8.15,250.0,75.0,0,0,False,0,https://www.bikedekho.com/dao/vidyut-108,budget,5,Unknown,3,1234.9857142857143,88.0,12
+Gemopai Ryder,Gemopai,Bajaj Chetak C2501,70850.0,1.25,90.0,25.0,65.0,250.0,80.0,0,0,False,1,https://www.bikedekho.com/gemopai/ryder,budget,5,Unknown,3,787.2222222222222,96.0,23
+OPG Motofaast,OPG,Bajaj Chetak C2501,133999.0,3.5,130.0,70.0,8.15,2.3,97.5,0,0,False,0,https://www.bikedekho.com/opg-mobility/opg-motofaast,mid,5,Unknown,3,1030.7615384615385,80.46,47
+Okaya Motofaast,Okaya,Bajaj Chetak C2501,133999.0,3.5,130.0,70.0,8.15,2.3,97.5,0,0,False,0,https://www.bikedekho.com/okaya/motofaast,mid,5,Unknown,3,1030.7615384615385,80.46,49
+Kabira Hermes 75,Kabira,Hermes 75 EMI,74200.0,2.5,120.0,75.0,2.0,2.5,106.0,0,0,True,0,https://www.bikedekho.com/kabira-mobility/hermes-75,budget,5,Unknown,3,618.3333333333334,78.5,37
+Hayasa Daksha,Hayasa,Bajaj Chetak C2501,74050.0,1.8,90.0,25.0,8.15,230.0,97.5,0,0,False,0,https://www.bikedekho.com/hayasa/daksha,budget,5,Unknown,3,822.7777777777778,92.0,29
+Li-ions Spock Electric Scooter vs Vida VX2,Li-ions,Vida VX2,65000.0,2.88,130.0,45.0,4.0,2.0,90.0,0,1,True,0,https://www.bikedekho.com/compare/spock-electric-scooter-vs-vx2,budget,5,Unknown,3,500.0,70.4,42
+Yakuza Parinda vs Ola S1 Z,Yakuza,Ola S1 Z,58800.0,2.02,55.0,25.0,68.0,250.0,97.5,0,0,False,0,https://www.bikedekho.com/compare/parinda-vs-s1-z,budget,5,Unknown,3,1069.090909090909,82.0,79
+TVS iQube vs AMO Electric Jaunty I-Pro,TVS,Ather 450X,115322.0,2.2,94.0,75.0,5.0,4.4,110.0,1,1,True,1,https://www.bikedekho.com/compare/iqube-electric-vs-jaunty-i-pro,mid,9,India,5,1226.8297872340424,68.47999999999999,68
+Yakuza Aqaba vs Komaki X One,Yakuza,Vida VX2,54600.0,2.02,55.0,25.0,68.0,250.0,97.5,0,0,False,0,https://www.bikedekho.com/compare/aqaba-vs-xone,budget,5,Unknown,3,992.7272727272727,82.0,79
+Bajaj Chetak vs Komaki TN-95,Bajaj,Komaki TN-95,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-tn-95,mid,8,India,2,845.6692913385826,77.4,8
+Hayasa Nirbhar,Hayasa,Bajaj Chetak C2501,80550.0,1.6,90.0,25.0,8.15,230.0,97.5,0,0,True,0,https://www.bikedekho.com/hayasa/nirbhar,budget,5,Unknown,3,895.0,92.0,29
+Green Vista,Green,Vida VX2,54499.0,1.38,60.0,25.0,8.15,250.0,94.0,0,0,False,0,https://www.bikedekho.com/green-ev/vista,budget,5,Unknown,3,908.3166666666667,84.0,26
+Odysse Snap,Odysse,Bajaj Chetak C2501,79999.0,2.16,105.0,60.0,4.0,1.2,90.0,0,0,True,0,https://www.bikedekho.com/odysse-electric/snap,budget,5,Unknown,3,761.8952380952381,66.24,48
+Avon E Mate 306,Avon,E Mate 306 EMI,100689.0,1.15,65.0,24.0,8.15,188.0,97.5,0,0,False,0,https://www.bikedekho.com/avon/e-mate,budget,5,Unknown,3,1549.0615384615385,73.2,5
+OPG Faast F2B,OPG,Faast F2B EMI,89999.0,2.2,81.0,70.0,8.15,2.3,97.5,0,0,True,1,https://www.bikedekho.com/opg-mobility/opg-faast-f2b,budget,5,Unknown,3,1111.0987654320988,60.86,47
+Komaki CAT 2.0 NXT,Komaki,CAT 2.0 NXT EMI,74999.0,2.7,120.0,70.0,8.15,7.0,97.5,0,0,True,1,https://www.bikedekho.com/komaki/cat-2-nxt,budget,5,Unknown,3,624.9916666666667,77.4,39
+Avon E Scoot 504,Avon,E Scoot 504 EMI,66006.0,1.15,65.0,24.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/avon/e-scoot,budget,5,Unknown,3,1015.4769230769231,85.6,5
+Gemopai Ryder SuperMax,Gemopai,Bajaj Chetak C2501,79999.0,1.8,100.0,60.0,65.0,2.7,80.0,1,0,True,1,https://www.bikedekho.com/gemopai/ryder-supermax,budget,5,Unknown,3,799.99,64.54,23
+ADMS Phantom,ADMS,Ather 450X,149000.0,3.0,123.0,60.0,8.15,2.0,70.0,0,0,True,0,https://www.bikedekho.com/adms/phantom,premium,5,Unknown,3,1211.3821138211383,73.60000000000001,1
+Ujaas eGo Li,Ujaas,Vida VX2,60774.0,1.5,75.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/ujaas-energy/ego-li,budget,5,Unknown,3,810.32,90.0,69
+e-Sprinto Roamy,e-Sprinto,Vida VX2,54999.0,1.8,100.0,25.0,8.15,250.0,73.0,0,0,False,0,https://www.bikedekho.com/e-sprinto-electric/roamy,budget,5,Unknown,3,549.99,100.0,85
+Hayasa Nirbhar vs TVS Orbiter,Hayasa,Ola S1 X,80550.0,1.6,90.0,25.0,44.5,230.0,97.5,0,0,True,0,https://www.bikedekho.com/compare/nirbhar-vs-orbiter,budget,5,Unknown,3,895.0,92.0,29
+Bajaj Chetak vs GT Drive Pro,Bajaj,Ather 450X,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-drive-pro,mid,8,India,2,845.6692913385826,77.4,8
+Ola S1 X vs EeVe Xeniaa,Ola,Ola S1 X,84999.0,2.0,108.0,101.0,8.15,7.0,105.0,1,1,True,0,https://www.bikedekho.com/compare/s1x-vs-xeniaa,budget,8,India,3,787.0277777777778,85.00000000000001,51
+GoBike E-Smart,GoBike,Bajaj Chetak C2501,71780.0,2.02,123.0,25.0,45.0,7.0,97.5,0,0,False,0,https://www.bikedekho.com/birla-e-bike/e-smart,budget,5,Unknown,3,583.5772357723578,60.6,24
+DAO Model 703,DAO,Model 703 EMI,89999.0,2.16,111.0,70.0,8.15,2.5,106.0,0,0,True,0,https://www.bikedekho.com/dao/model-703,budget,5,Unknown,3,810.8018018018018,72.9,12
+Vegh L25,Vegh,L25 EMI,76395.0,1.34,70.0,25.0,45.0,250.0,97.5,0,0,True,0,https://www.bikedekho.com/vegh/l25,budget,5,Unknown,3,1091.357142857143,88.0,73
+Shema Bold,Shema,Bajaj Chetak C2501,82200.0,1.8,90.0,25.0,8.15,250.0,97.5,0,1,False,0,https://www.bikedekho.com/shema-e-vehicle/bold,budget,5,Unknown,3,913.3333333333334,96.0,62
+Corrit Electric Transit,Corrit,Bajaj Chetak C2501,129000.0,2.9,130.0,70.0,3.0,7.0,97.5,0,0,True,0,https://www.bikedekho.com/corrit-electric/transit,mid,5,Unknown,3,992.3076923076923,81.4,11
+Omega Vextra,Omega,Bajaj Chetak C2501,99900.0,3.45,110.0,70.0,4.0,3.0,110.0,0,0,True,0,https://www.bikedekho.com/omega-seiki-mobility/vextra,mid,5,Unknown,3,908.1818181818181,72.6,52
+Greta Harper ZX Series-I,Greta,Vida VX2,41999.0,2.02,80.0,60.0,8.15,1.2,97.5,0,0,True,0,https://www.bikedekho.com/greta-electric/harper-zx-series-1,budget,5,Unknown,3,524.9875,56.24,27
+e-Sprinto LS,e-Sprinto,Bajaj Chetak C2501,76000.0,1.74,70.0,25.0,8.15,250.0,90.0,0,0,False,0,https://www.bikedekho.com/e-sprinto-electric/e-sprinto,budget,5,Unknown,3,1085.7142857142858,88.0,85
+White Carbon Motors O3,White,O3 EMI,55900.0,0.96,60.0,25.0,8.15,250.0,43.0,0,0,True,0,https://www.bikedekho.com/white-carbon-motors/o3,budget,5,Unknown,3,931.6666666666666,84.0,77
+BGauss OoWah,BGauss,Bajaj Chetak C2501,94990.0,2.3,105.0,60.0,5.155,2.4,97.0,0,0,True,1,https://www.bikedekho.com/bgauss/oowah,mid,5,Unknown,3,904.6666666666666,66.48,6
+Yakuza Amber,Yakuza,Vida VX2,43505.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/amber,budget,5,Unknown,3,791.0,82.0,79
+Hayasa Ira,Hayasa,Bajaj Chetak C2501,76750.0,2.02,90.0,25.0,8.15,230.0,97.5,0,0,False,0,https://www.bikedekho.com/hayasa/ira,budget,5,Unknown,3,852.7777777777778,92.0,29
+eblu Feo,eblu,Bajaj Chetak C2501,99999.0,2.36,110.0,60.0,5.0,2.6,97.5,1,0,True,0,https://www.bikedekho.com/eblu/feo,mid,5,Unknown,3,909.0818181818182,68.52,86
+Yakuza Unique,Yakuza,Vida VX2,63000.0,2.58,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/unique,budget,5,Unknown,3,1145.4545454545455,82.0,79
+Avon E-Zap Dx,Avon,Bajaj Chetak C2501,94799.0,1.44,123.0,24.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/avon/e-zap-dx,mid,5,Unknown,3,770.7235772357724,108.80000000000001,5
+GoBike Spark,GoBike,Bajaj Chetak C2501,69182.0,2.02,123.0,25.0,45.0,7.0,97.5,0,0,False,0,https://www.bikedekho.com/birla-e-bike/birla-spark,budget,5,Unknown,3,562.4552845528456,60.6,24
+Wroley Posh,Wroley,Bajaj Chetak C2501,82900.0,1.8,90.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/wroley/posh,budget,5,Unknown,3,921.1111111111111,96.0,78
+GoBike E-Smart vs TVS Orbiter,GoBike,Ola S1 X,71780.0,2.02,123.0,25.0,45.0,7.0,97.5,0,0,False,0,https://www.bikedekho.com/compare/e-smart-vs-orbiter,budget,5,Unknown,3,583.5772357723578,60.6,24
+Ola S1 Z vs Komaki XGT VP,Ola,Ola S1 Z,59999.0,3.0,146.0,70.0,8.15,3.0,97.5,0,0,False,1,https://www.bikedekho.com/compare/s1-z-vs-xgt-vp,budget,8,India,3,410.95205479452056,87.0,51
+Bajaj Chetak vs DAO Model 703,Bajaj,DAO Model 703,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-model-703,mid,8,India,2,845.6692913385826,77.4,8
+Omega Mopido,Omega,Bajaj Chetak C2501,83790.0,2.15,100.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/omega-seiki-mobility/mopido,budget,5,Unknown,3,837.9,100.0,52
+Wroley Mars,Wroley,Bajaj Chetak C2501,71900.0,1.44,75.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/wroley/mars,budget,5,Unknown,3,958.6666666666666,90.0,78
+Odysse Electric Trot,Odysse,Bajaj Chetak C2501,99999.0,1.8,75.0,25.0,8.15,250.0,110.0,0,1,False,0,https://www.bikedekho.com/odysse-electric/trot,budget,5,Unknown,3,1333.32,90.0,48
+Enigma GT 450 Pro,Enigma,GT 450 Pro EMI,86902.0,2.4,120.0,60.0,57.0,7.0,97.5,0,0,False,0,https://www.bikedekho.com/enigma/gt-450-pro,budget,5,Unknown,3,724.1833333333333,73.4,18
+NIJ Automotive Accelero Plus,NIJ,Vida VX2,55200.0,1.92,190.0,25.0,8.15,250.0,86.0,0,0,True,0,https://www.bikedekho.com/nij-automotive/accelero-plus,budget,5,Unknown,3,290.5263157894737,136.0,45
+Deltic ZGS,Deltic,Bajaj Chetak C2501,102490.0,1.44,75.0,45.0,8.15,2.0,97.5,0,0,True,0,https://www.bikedekho.com/deltic/zgs,budget,5,Unknown,3,1366.5333333333333,48.4,13
+Rowwet Zepop,Rowwet,Vida VX2,61770.0,1.15,123.0,55.0,7.0,2.0,97.5,0,0,False,0,https://www.bikedekho.com/rowwet/zepop,budget,5,Unknown,3,502.1951219512195,71.60000000000001,59
+iScoot 1,iScoot,Scoot 1 EMI,107039.0,2.16,150.0,65.0,8.15,1.5,97.5,0,0,False,1,https://www.bikedekho.com/iscoot/scoot-1,mid,5,Unknown,3,713.5933333333334,86.3,88
+Stella Moto BUZZ,Stella,Bajaj Chetak C2501,95000.0,2.02,90.0,55.0,8.15,2.0,97.5,0,0,False,0,https://www.bikedekho.com/stella/buzz,mid,5,Unknown,3,1055.5555555555557,58.4,66
+Herald Legend,Herald,Vida VX2,63761.0,2.02,123.0,25.0,8.15,2.0,97.5,0,0,False,0,https://www.bikedekho.com/herald/herald-legend,budget,5,Unknown,3,518.3821138211382,59.6,30
+TVS iQube vs Omega Mopido,TVS,Ather 450X,115322.0,2.2,94.0,75.0,5.0,4.4,110.0,1,1,True,1,https://www.bikedekho.com/compare/iqube-electric-vs-mopido,mid,9,India,5,1226.8297872340424,68.47999999999999,68
+Wroley Mars  vs TVS Orbiter,Wroley,Ola S1 X,71900.0,1.44,75.0,25.0,4.0,250.0,97.5,0,0,False,0,https://www.bikedekho.com/compare/mars-vs-orbiter,budget,5,Unknown,3,958.6666666666666,90.0,78
+Bajaj Chetak vs AMO Electric Jaunty I-Pro,Bajaj,Ather 450X,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-jaunty-i-pro,mid,8,India,2,845.6692913385826,77.4,8
+Yakuza Sophie,Yakuza,Vida VX2,57000.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/sophie,budget,5,Unknown,3,1036.3636363636363,82.0,79
+Jitendra Yunik,Jitendra,Bajaj Chetak C2501,124083.0,3.8,130.0,72.0,8.15,2.5,150.0,1,1,True,0,https://www.bikedekho.com/jitendra-ev/yunik,mid,5,Unknown,3,954.4846153846154,81.3,34
+GoBike Electro,GoBike,Bajaj Chetak C2501,76109.0,2.02,123.0,50.0,45.0,7.0,97.5,0,0,False,0,https://www.bikedekho.com/birla-e-bike/electro,budget,5,Unknown,3,618.7723577235772,70.60000000000001,24
+Avon E-Star Dx,Avon,Bajaj Chetak C2501,99689.0,2.02,123.0,24.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/avon/e-star-dx,mid,5,Unknown,3,810.479674796748,60.2,5
+Geliose Hope,Geliose,Vida VX2,46999.0,1.15,50.0,25.0,312.0,250.0,97.5,0,0,False,0,https://www.bikedekho.com/geliose/hope,budget,5,Unknown,3,939.98,80.0,22
+Raftaar Electrica,Raftaar,Bajaj Chetak C2501,70900.0,1.92,100.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/raftaar/electrica,budget,5,Unknown,3,709.0,100.0,56
+Fujiyama Ozone,Fujiyama,Bajaj Chetak C2501,79999.0,2.05,123.0,70.0,8.15,3.7,97.5,0,0,True,0,https://www.bikedekho.com/fujiyama/ozone,budget,5,Unknown,3,650.3983739837398,77.94,20
+Kinetic Green E Luna vs Yakuza Sophie,Kinetic,TVS XL100,69990.0,2.0,110.0,50.0,4.0,1.2,96.0,0,0,False,0,https://www.bikedekho.com/compare/e-luna-vs-sophie,budget,5,Unknown,3,636.2727272727273,64.24,38
+VLF Tennis 1500,VLF,Tennis 1500 EMI,129000.0,2.02,150.0,50.0,8.15,7.0,97.5,0,0,False,0,https://www.bikedekho.com/vlf/tennis-1500,mid,5,Unknown,3,860.0,81.4,72
+Lectrix EV LXS 3.0,Lectrix,LXS 3.0 EMI,101990.0,3.0,120.0,54.0,8.15,1.2,133.94,0,0,False,0,https://www.bikedekho.com/lectrix-ev/lxs-3,mid,5,Unknown,3,849.9166666666666,69.83999999999999,41
+ABZO Sigilo,ABZO,Bajaj Chetak C2501,99900.0,2.02,100.0,85.0,8.15,7.0,97.5,0,0,False,1,https://www.bikedekho.com/abzo/sigilo,mid,5,Unknown,3,999.0,75.4,0
+One Moto Electa,One,Ather 450X,199000.0,3.96,150.0,85.0,8.15,4.0,115.0,0,0,False,0,https://www.bikedekho.com/one-moto/electa,premium,5,Unknown,3,1326.6666666666667,94.8,53
+Yakuza Utility Pro,Yakuza,Vida VX2,46980.0,2.02,55.0,25.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/yakuza-electric/utility-pro,budget,5,Unknown,3,854.1818181818181,82.0,79
+Quantum Plasma,Quantum,Bajaj Chetak C2501,89095.0,2.18,100.0,60.0,8.15,1.5,97.5,1,1,True,0,https://www.bikedekho.com/quantum-energy/plasma,budget,5,Unknown,3,890.95,64.3,55
+Bajaj Chetak vs Stella Moto SA 2000,Bajaj,Stella Moto SA 2000,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-sa2000,mid,8,India,2,845.6692913385826,77.4,8
+Vida VX2 vs Komaki XGT VP,Vida,Vida VX2,44990.0,2.2,92.0,70.0,3.53,7.0,97.5,1,1,False,1,https://www.bikedekho.com/compare/vx2-vs-xgt-vp,budget,5,Unknown,3,489.0217391304348,66.20000000000002,75
+TVS iQube vs Super Eco S 2,TVS,Super Eco S 2,115322.0,2.2,94.0,75.0,5.0,4.4,110.0,1,1,True,1,https://www.bikedekho.com/compare/iqube-electric-vs-s-2,mid,9,India,5,1226.8297872340424,68.47999999999999,68
+Ather Rizta vs VLF Tennis 1500,Ather,VLF Tennis 1500,75999.0,2.9,123.0,80.0,8.3,4.3,125.0,1,1,True,0,https://www.bikedekho.com/compare/rizta-vs-tennis-1500,budget,9,India,4,617.8780487804878,82.06,4
+Ather 450X vs JHEV Alfa R3,Ather,Ather 450X,147999.0,2.9,126.0,90.0,4.3,6.4,108.0,0,0,False,1,https://www.bikedekho.com/compare/450x-vs-alfa-r3,premium,9,India,4,1174.595238095238,87.68,4
+Jitendra Primo,Jitendra,Bajaj Chetak C2501,92007.0,2.04,82.0,52.0,8.15,1.07,83.0,1,1,True,0,https://www.bikedekho.com/jitendra-ev/primo,mid,5,Unknown,3,1122.0365853658536,53.81400000000001,34
+OPG Freedum,OPG,Vida VX2,49999.0,1.44,75.0,25.0,8.15,250.0,97.5,0,0,True,1,https://www.bikedekho.com/opg-mobility/opg-freedum,budget,5,Unknown,3,666.6533333333333,90.0,47
+Odysse Electric Hawk,Odysse,Bajaj Chetak C2501,99400.0,2.02,70.0,45.0,8.15,1.8,97.5,1,0,False,0,https://www.bikedekho.com/odysse-electric/odysse-hawk,budget,5,Unknown,3,1420.0,46.36,48
+Kyte Energy Stella R,Kyte,Vida VX2,54999.0,2.02,50.0,40.0,8.15,250.0,97.5,0,0,False,0,https://www.bikedekho.com/kyte-energy/stella-r,budget,5,Unknown,3,1099.98,86.0,40
+EVeium COSMO,EVeium,Bajaj Chetak C2501,139200.0,2.16,100.0,75.0,8.15,2.0,102.0,0,0,True,0,https://www.bikedekho.com/eveium/cosmo,mid,5,Unknown,3,1392.0,70.4,15
+Lectrix EV SX25,Lectrix,SX25 EMI,54999.0,1.4,60.0,25.0,8.15,250.0,97.5,0,0,True,0,https://www.bikedekho.com/lectrix-ev/sx25,budget,5,Unknown,3,916.65,84.0,41
+NDS Eco Motors SQD,NDS,Bajaj Chetak C2501,119863.0,2.3,110.0,68.0,8.15,2.0,97.5,0,0,True,0,https://www.bikedekho.com/nds-eco-motors/sqd,mid,5,Unknown,3,1089.6636363636364,71.60000000000001,44
+Joy e-bike Wolf Plus,Joy,Bajaj Chetak C2501,71099.0,2.12,100.0,55.0,8.15,1.5,85.0,1,0,True,0,https://www.bikedekho.com/joy-e/wolfplus,budget,5,Unknown,3,710.99,62.3,35
+iVOOMi Jeet X,iVOOMi,Bajaj Chetak C2501,84999.0,2.0,100.0,70.0,5.0,2.5,96.0,0,0,True,0,https://www.bikedekho.com/ivoomi/jeet,budget,5,Unknown,3,849.99,68.5,89
+Lectrix LXS 2.0,Lectrix,LXS 2.0 EMI,84990.0,2.3,98.0,55.0,8.15,1.2,100.0,0,0,True,0,https://www.bikedekho.com/lectrix-ev/lxs-2,budget,5,Unknown,3,867.2448979591836,61.440000000000005,41
+Bajaj Chetak vs OPG Motofaast,Bajaj,Ather 450X,107400.0,3.0,127.0,63.0,8.15,7.0,97.5,1,0,True,1,https://www.bikedekho.com/compare/chetak-vs-opg-motofaast,mid,8,India,2,845.6692913385826,77.4,8
+Jitendra Primo vs Ather Rizta,Jitendra,Ola S1 Pro,92007.0,2.04,82.0,52.0,3.54,1.07,83.0,1,1,True,0,https://www.bikedekho.com/compare/primo-vs-rizta,mid,5,Unknown,3,1122.0365853658536,53.81400000000001,34
+TVS Orbiter vs EeVe Xeniaa,TVS,Ola S1 Pro,91550.0,1.8,86.0,68.0,8.15,1.8,101.0,1,1,True,0,https://www.bikedekho.com/compare/orbiter-vs-xeniaa,mid,9,India,5,1064.5348837209303,61.96,68
